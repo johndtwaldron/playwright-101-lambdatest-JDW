@@ -63,3 +63,10 @@ This repository is private and has been shared with the LambdaTest certification
 Email: johndtwaldron@gmail.com  
 GitHub: [https://github.com/johndtwaldron](https://github.com/johndtwaldron)
 LinkedIN: https://www.linkedin.com/in/johndtwaldron/
+
+### GITPOD
+
+NOTE: Very new to me but this is how I worked it:
+
+https://gitpod.io/new/#github.com/johndtwaldron/playwright-101-lambdatest-JDW
+i.e put gitpod.io/# right in front of the repo url

@@ -1,5 +1,5 @@
 image:
-  file: .gitpod.Dockerfile
+  file: ./.gitpod.dockerfile
 
 tasks:
   - name: Run LambdaTest Playwright Tests
@@ -8,3 +8,7 @@ tasks:
       playwright install
     command: | # Run the Playwright tests using pytest
       pytest tests/101_final_sub_LT
+
+vscode:
+  extensions:
+    - ms-python.python
