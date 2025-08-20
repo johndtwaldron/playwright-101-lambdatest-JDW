@@ -47,7 +47,7 @@ Test IDs were captured and are available on the LambdaTest dashboard under the *
 1)  Scenario 1 A: Simple Form,  Chrome/Windows  TestID: DA-WIN-2513202-1755713797835346621UHE
 2)  Scenario 1 B: Simple Form,  Edge/Mac        TestID: DA-MAC-2513202-1755715522831990581VDZ
 3)  Scenario 2 A: Slider Value, Chrome/Windows  TestID: DA-WIN-2513202-1755713758143036801IEF
-4)  Scenario 3 B: Slider Value, Edge/Mac        TestID: DA-WIN-2513202-1755715587589039886WAO
+4)  Scenario 2 B: Slider Value, Edge/Mac        TestID: DA-WIN-2513202-1755715587589039886WAO
 5)  Scenario 3 A: Form Submit,  Chrome/Windows  TestID: DA-WIN-2513202-1755714181691612700EGP
 6)  Scenario 3 B: Form Submit,  Edge/Mac        TestID: DA-MAC-2513202-1755716138334044809BFH
 
@@ -70,3 +70,9 @@ NOTE: Very new to me but this is how I worked it:
 
 https://gitpod.io/new/#github.com/johndtwaldron/playwright-101-lambdatest-JDW
 i.e put gitpod.io/# right in front of the repo url
+Then make sure python is in the path running => export PATH=$PATH:/home/gitpod/.local/bin
+Then run each of the 6 pytests individually, 
+I.e => pytest ./tests/101_final_sub_LT/lt_test_simple_form_scen1_A.py 
+... and so on
+
+_____________________________________________________________________

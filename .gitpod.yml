@@ -6,8 +6,9 @@ tasks:
     init: |
       pip install -r requirements.txt
       playwright install
-    command: | # Run the Playwright tests using pytest
-      pytest tests/101_final_sub_LT
+    command: | # Run the Playwright tests using pytest & Ensure playwright is in PATH
+      export PATH=$PATH:/home/gitpod/.local/bin 
+      pytest ./tests/101_final_sub_LT
 
 vscode:
   extensions:
