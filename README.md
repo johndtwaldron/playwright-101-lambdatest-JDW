@@ -56,6 +56,7 @@ EDIT: Emailed final Test ID's used from my GITPOD use!!!
 ## Inital Private Repository
 
 This repository is private and has been shared with the LambdaTest certifications team for review.
+Update: Now public to show proof of playwright-python work
 
 ---
 
