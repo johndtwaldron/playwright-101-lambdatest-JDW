@@ -2,6 +2,8 @@
 
 This repo contains the solution to the LambdaTest Playwright 101 certification assignment, completed by **John Waldron**.
 
+![JPEG of Professional Certificate Obtained after Assignment](1756135592083.jpeg)
+
 ## Scenarios Covered
 
 | Scenario | Description                    | OS/Browser             |
