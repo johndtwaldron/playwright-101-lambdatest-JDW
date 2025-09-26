@@ -1,7 +1,7 @@
 # Playwright 101 – LambdaTest Assignment by John Waldron
 
-This repo contains the solution to the LambdaTest Playwright 101 certification assignment, completed by **John Waldron**.
-[Verify credential via URL](https://www.lambdatest.com/certified/P101-CN3TTK)
+## This repo contains the solution to the LambdaTest Playwright 101 certification assignment, completed by **John Waldron**.
+## [Verify credential via URL](https://www.lambdatest.com/certified/P101-CN3TTK)
 
 ![JPEG of Professional Certificate Obtained after Assignment](1756135592083.jpeg)
 
